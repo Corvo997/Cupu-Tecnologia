@@ -1,0 +1,26 @@
+.header{
+        padding: 8px;
+        background: #0d47a1;
+        color: white;
+        font-size: 10px;
+}
+
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #e6f1f3;
+        color: black;
+        text-align: right;
+     }
+
+#dedic{
+        position: relative;
+        right: 1%;
+}
+
+#topo{
+  position: relative;
+  left: 1%;
+}

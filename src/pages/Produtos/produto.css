@@ -1,0 +1,198 @@
+.ul{
+    list-style-type: none;
+}
+#lista1{
+  height: 81%;
+  position: absolute;
+  overflow: auto;
+  top: 9%;
+  padding: 0px;
+  left: 1%;
+  width: 88%;
+}
+
+#grupo{
+  width: 50%;
+  margin: 12px;
+  height: 94%;
+}
+#opcao{
+  margin: 5px;
+  border: 1px solid #aeddffb8;
+  background-color: #aeddffb8;
+  padding: 3px;
+  border-radius: 5px;
+  width: 177%;
+  list-style-type: none;
+  position: relative;
+  right: 11%;
+  height: 18%;
+}
+
+#opcao1{
+  margin: 5px;
+  border: 1px solid #aeddffb8;
+  background-color: #aeddffb8;
+  padding: 3px;
+  border-radius: 5px;
+  width: 177%;
+  list-style-type: none;
+  position: relative;
+  right: 11%;
+  height: 12%;
+}
+
+#lista2{
+  height: 81%;
+  position: absolute;
+  overflow: auto;
+  top: 9%;
+  padding: 0px;
+  left: 1%;
+  width: 88%;
+}
+
+#lista3{
+  height: 81%;
+  position: absolute;
+  overflow: auto;
+  top: 9%;
+  padding: 0px;
+  left: 1%;
+  width: 88%;
+}
+
+#title{
+position: absolute;
+left: 8%;
+top: 8%;
+font-family: Verdana;
+}
+
+#title2{
+  position: absolute;
+  left: 12%;
+  font-family: Arial;
+}
+
+#title3{
+position: absolute;
+left: 12%;
+font-family: Arial;
+
+}
+
+#title4{
+position: absolute;
+left: 8%;
+font-family: Arial;
+}
+
+#cardlista1{
+width: 37%;
+position: absolute;
+height: 56%;
+top: 17%;
+left: 5%;
+background-color: #e8f5e9;
+}
+
+#cardlista2{
+  position: absolute;
+  top: 80%;
+  width: 37%;
+  height: 56%;
+  left: 5%;
+  background-color: #e8f5e9;
+}
+
+#cardlista3{
+  position: absolute;
+  top: 144%;
+  height: 56%;
+  left: 5%;
+  width: 37%;
+  background-color: #e8f5e9;
+}
+
+#pedido{
+position: fixed;
+left: 58%;
+top: 17%;
+width: 27%;
+height: 56%;
+border-bottom-width: 75px;
+border-bottom-style: solid;
+border-color: white;
+overflow: auto;
+}
+
+#tabelaPedido{
+border-collapse: collapse;
+position: absolute;
+top: 18%;
+left: 4%;
+width: 91%;
+}
+
+#salvar{
+    background-color: #4CAF50; 
+    position: fixed;
+    top: 73.8%;
+    border: 2px solid #4CAF50;
+    left: 62.8%;
+    width: 6%;
+}
+#salvar:hover{
+  background-color: white;
+  color: black;
+}
+
+#cancelar2{
+  background-color: red;
+  position: fixed;
+top: 73.8%;
+left: 72%;
+width: 7%;
+border: 2px solid red;
+}
+#cancelar2:hover{
+  background-color: white;
+  color: black;
+}
+
+#prod{
+font-size: 18px;
+position: absolute;
+bottom: 25%;
+left: 4%;
+}
+
+#secprod{
+position: absolute;
+font-size: 15px;
+font-family: Calibri;
+top: 33%;
+left: 6%;
+}
+
+#option{
+position: absolute;
+bottom: -4%;
+left: 6%;
+}
+
+#tt{
+  overflow: auto;
+}
+
+#preco{
+  position: absolute;
+  left: 89%;
+  top: 11%;
+}
+
+#preco1{
+  position: absolute;
+  left: 89%;
+}

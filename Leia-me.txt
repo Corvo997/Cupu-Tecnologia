@@ -1,0 +1,7 @@
+Douglas Almeida
+Estágio Cupú Tecnologia
+
+Observações do teste: Como primeiro contato com o React Js aprendi sobre a linguagem JSX, por herdar várias características do JS nao foi difícil implementar os elementos nem estilizar 
+o site, no entanto tive alguns problemas com a linguagem, principalmente na parte de passar o resultado de uma página para outra, como poderá ser visto no site. Além disso, infelizmente não
+tive tempo de implementar um banco de dados o que poderia ter facilitado na programação. Em algumas partes do código, como poderá ser notado, inserir dados para demonstrar como funcionaria o
+site e para deixar esteticamente melhor.
